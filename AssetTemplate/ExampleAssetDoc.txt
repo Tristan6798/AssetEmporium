@@ -1,0 +1,11 @@
+Assets should be placed under the asset contents portion of the asset template, and asset details should have the name of the
+asset, the creator(s), and a description.
+
+Assets should be paired with a document detailing how to operate it, as well as in a folder with the prefab itself and
+everything it requires. The following is paired with the example asset template.
+
+World Portal Select
+
+For calibration, all that is needed is to duplicate the world slot for each world you are adding. In each slot object, fill in
+the data relative to entry (world ID goes in ID, name is however you wish to name it, image is what will show up on the menu.
+TargetChild and IsRoom do not need to be modified.)
